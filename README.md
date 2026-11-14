@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paras-valera
-- 👀 I’m expert in | Flutter | Android | Web Technologies
+- 👀 I’m expert in Shopify Plus | Flutter | Android | Web Technologies
 - 🌱 I’m currently Working on personal project
 - 💞️ I’m looking to collaborate on your projects
 - 📫 How to reach me -> Search Paras Valera on google and you'll catch me.
